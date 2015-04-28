@@ -49,7 +49,9 @@ class Avtomobil {
 
 $auto = new Avtomobil('BMW', 'x6', '2013', 'bela', '16 000 $');
 
-print_r ($auto);
+
+
+// print_r ($auto);
 
 // $auto->setMarka('BMW');
 // $auto->setModel('x7');
